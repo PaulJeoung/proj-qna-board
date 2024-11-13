@@ -1,0 +1,15 @@
+@media screen and (max-width: 480px) {
+    #item-pc-list {
+        display: none !important;
+        background: #f9fbfb;
+    }
+}
+/*@media screen and (min-width: 481px) {*/
+/*    #item-pc-list {*/
+/*    }*/
+/*}*/
+
+.field-error {
+    border-color: #dc3545;
+    color: #dc3545;
+}
